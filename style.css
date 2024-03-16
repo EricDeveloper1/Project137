@@ -1,0 +1,45 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 52px;
+    letter-spacing: 10px;
+    width: 100%;
+    margin: 0px;
+    font-family: Californian FB;
+    font-weight: bolder;
+}
+
+#object_status, #status {
+    font-size: 28px;
+    font-family: Niagara Solid;
+}
+
+#start {
+    font-size: 32px;
+    letter-spacing: 4px;
+    font-family: Niagara Engraved;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: gainsboro;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgrey;
+    line-height: 3;
+    text-align: right;
+}
+
+canvas {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 6px 6px 5px grey;
+    margin-top: 130px;
+}
+
+.input {
+    font-family: Imprint MT Shadow;
+}
